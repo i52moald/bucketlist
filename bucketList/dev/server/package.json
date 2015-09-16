@@ -1,0 +1,15 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david montoya",
+  "license": "ISC",
+  "dependencies": {
+    "mongojs": "^1.2.1",
+    "restify": "^3.0.3"
+  }
+}
